@@ -24,12 +24,4 @@ Paredes
 
 
 
-    //Movpala es el script, arriba a la derecha sale el nombre como Movpala.cs*
-    //"float"= numero decimal, "bool"= true/false
-    //El símbolo "=" se puede usar para modificar un input anteriror
-    //"Debut.Log" = da una orden por ejemplo ("") podrá mandar mensaje
-    //if + () = ejecuta la orden de "bool", si es "true" lo ejecuta y si no ejecuta lo que está dentro del "else"
-    //Una"{" debe cerrarse tra la orden
-    //Input.GetAxis= depende de la orden del teclado ejecuta lo que pongas entre parentesis 
-    //position= X=algo Y=algo
-    //new Vector3 (horizontal, vertical, z) indica un nuevo movimiento (Vector 3 significa que tiene 3 dimensiones)
+   
